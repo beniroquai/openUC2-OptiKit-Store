@@ -258,6 +258,10 @@
     }
   ],
   "name": "Mach Zehnder Interferometer",
+  "uc2_verified": true,
+  "version": "1.0.0",
+  "createdAt": "2025-08-01T00:00:00.000Z",
+  "collection": "quantumBOX",
   "author": "Benedict",
   "githubAccount": "beniroquai",
   "description": "This is a basic interferometer for schools",
