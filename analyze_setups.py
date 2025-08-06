@@ -192,7 +192,7 @@ def create_csv_database(setup_data_list, all_component_files, output_file='setup
     df = df.sort_values('filename')
     
     # Save to CSV
-    df.to_csv(output_file, index=False, encoding='utf-8')
+    df.to_csv(output_file, index=False, sep=";", encoding='utf-8')
     logger.info(f"CSV database saved to: {output_file}")
     
     # Print summary statistics

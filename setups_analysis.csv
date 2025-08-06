@@ -1,0 +1,15 @@
+filename;name;uc2_verified;collection;author;github_link;description;category;version;createdAt;total_components;component_ASS___2000___CUB___V04_iam;component_ASS___2005___CUBSAMHOL___V03_iam;component_ASS___2011___CUBSPLCUB___V04_iam;component_ASS___2013___CUBKINMIR45�90�___V04___A_iam;component_ASS___2013___CUBKINMIR45�90�___V04_iam;component_ASS___2014___CUBSCRHOL___V04_iam;component_ASS___2018___CUBLAS520___V04_iam;component_ASS___2019___CUBPHOSEN+LEND16F28___V04_iam;component_ASS___2020___CUBMIR45�TH2___V04_iam;component_ASS___2021___CUBLEND40F50___V04_iam;component_ASS___2025___CUBEYEPCE___V04_iam;component_ASS___2027___CUBDICSPL+EMIFIL_WLS532___A_iam;component_ASS___2042___CUBFLULEDBLUNEWENE___V04_iam;component_ASS___2045___CUBCAM_RASPBERRY___V04_iam;component_ASS___2046___CUBLEDMTX___V04_iam;component_ASS___2048___CUBDBLPOLFIL___V04_iam;component_ASS___3004___CUBMANSTGR10___V04_iam;component_ASS___4004___TOR+BAT_iam;component_C:\UC2_Components\Controller_To_control_motors_and_light_iam;component_C:\UC2_Components\Cylindrical_lens_for_lightsheet_iam;component_C:\UC2_Components\Microscope_Objective_40×_iam;component_C:\UC2_Components\Power_Supply_for_Electronics_iam;"component_runs_Python_"""
+optikit-layout-bb84.json;Untitled Setup;False;;;;;General;;;13;0;0;2;0;0;1;2;4;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+setup-1753077282814.json;;False;;;;;;;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+setup-1753090999556.json;;False;;;;;;;;3;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0
+setup-1753091569590.json;;False;;;;;;;;3;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0
+setup-1753370725153.json;;False;;;;;;;;5;3;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+setup-1753561338256.json;;False;;;;;;;;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+setup-1753606362107.json;BB84;False;;Benedict;;Quantumencryption setup;Laser;;;16;0;0;3;0;0;1;2;6;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+setup-1753625356359.json;Untitled Setup;False;;;;;General;;;8;2;1;0;0;0;0;0;0;2;0;1;0;0;0;0;0;1;1;0;0;0;0;0
+setup-1753644253746.json;openuc2@FLIMLabs;False;;Benedict;;This is a laserscanning microscope that ;Microscopy;;;13;3;1;0;0;0;3;0;0;1;2;0;1;0;1;0;0;1;0;0;0;0;0;0
+setup-1753648701160.json;openuc2@FLIMLabs;False;;Benedict;;This is a laserscanning microscope that can perform FLIM imaging and fluorescence imaging using the FRAME.;Microscopy;;;13;3;0;0;0;0;3;0;0;1;2;0;1;0;2;1;0;0;0;0;0;0;0;0
+setup-1753696751799.json;UC2 Michelson Interferometer;False;;Benedict;;This shows the general way of producing two beam interference. ;Laser;;;7;1;0;1;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+setup-1753950167855.json;Untitled Setup;False;;;;;General;;;22;10;0;0;1;0;2;0;0;0;2;0;1;1;1;1;0;0;0;0;1;1;0;1
+setup-1753950216832.json;Smart Microscopy Setup;True;coreBOX;Benedict;openuc2.github.io;This is a simple microscope with a motorized xyz stage and LED array ;Microscopy;1.0.0;2025-08-01T00:00:00.000Z;23;10;0;0;1;0;2;0;0;0;2;0;1;1;1;1;0;0;0;1;0;1;1;1
+setup-1753952319649.json;Mach Zehnder Interferometer;True;quantumBOX;Benedict;;This is a basic interferometer for schools;General;1.0.0;2025-08-01T00:00:00.000Z;9;1;0;2;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0
