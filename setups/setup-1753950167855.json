@@ -448,7 +448,11 @@
       "visible": true
     }
   ],
-  "name": "Untitled Setup",
+    "name": "Smart Microscopy Setup",
+  "uc2_verified": true,
+  "version": "1.0.0",
+  "createdAt": "2025-08-01T00:00:00.000Z",
+  "collection": "coreBOX",
   "author": "",
   "githubAccount": "",
   "description": "",
