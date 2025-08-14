@@ -171,6 +171,10 @@
     }
   ],
   "name": "Spotting microscope",
+  "uc2_verified": true,
+  "version": "1.0.0",
+  "createdAt": "2025-08-01T00:00:00.000Z",
+  "collection": "coreBOX",
   "author": "",
   "githubAccount": "CsAngel_github",
   "description": "spotting microscope setup",
