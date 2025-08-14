@@ -354,7 +354,6 @@
   "uc2_verified": true,
   "version": "1.0.0",
   "createdAt": "2025-08-14T00:00:00.000Z",
-  "collection": "lightsheetBOX",
   "author": "Benedict",
   "githubAccount": "beniroquai",
   "description": "This is an openSPIM inspired microscope with minimal number of components.",
