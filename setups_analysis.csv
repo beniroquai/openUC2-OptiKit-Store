@@ -3,7 +3,6 @@ setup-1753606362107.json;BB84;False;;Benedict;;Quantumencryption setup;Laser;;;1
 setup-1753625356359.json;Untitled Setup;False;;;;;General;;;8;2;1;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0
 setup-1753648701160.json;openuc2@FLIMLabs;False;;Benedict;;This is a laserscanning microscope that can perform FLIM imaging and fluorescence imaging using the FRAME.;Microscopy;;;13;3;0;0;0;0;3;0;0;1;2;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0
 setup-1753696751799.json;UC2 Michelson Interferometer;False;;Benedict;;This shows the general way of producing two beam interference. ;Laser;;;7;1;0;1;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-setup-1753950167855.json;TEST;True;coreBOX;;;;General;1.0.0;2025-08-01T00:00:00.000Z;22;10;0;0;1;0;2;0;0;0;2;0;0;1;1;1;1;0;0;0;0;0;0;1;0;0;1;0;0;1
 setup-1753950216832.json;Smart Microscopy Setup;True;coreBOX;Benedict;openuc2.github.io;This is a simple microscope with a motorized xyz stage and LED array ;Microscopy;1.0.0;2025-08-01T00:00:00.000Z;23;10;0;0;1;0;2;0;0;0;2;0;0;1;1;1;1;0;0;0;0;0;1;0;0;0;1;1;0;1
 setup-1753952319649.json;Mach Zehnder Interferometer;True;quantumBOX;Benedict;;This is a basic interferometer for schools;General;1.0.0;2025-08-01T00:00:00.000Z;9;1;0;2;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 setup-1754479454498.json;FRAME LED Fluorescence;False;;Benedict;;This is a basic configuration for the openUC2 FRAME that has 488nm LED fluorescence for the excitation. ;Microscopy;;;15;2;0;0;0;0;2;0;0;1;2;0;0;1;1;2;1;0;0;0;0;0;1;0;0;0;0;1;0;1
