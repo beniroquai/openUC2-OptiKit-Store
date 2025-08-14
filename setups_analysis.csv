@@ -7,7 +7,7 @@ setup-1753952319649.json;Mach Zehnder Interferometer;True;quantumBOX;Benedict;;T
 setup-1754479454498.json;FRAME LED Fluorescence;False;;Benedict;;This is a basic configuration for the openUC2 FRAME that has 488nm LED fluorescence for the excitation. ;Microscopy;;;15;2;0;0;0;0;2;0;0;1;2;0;1;1;2;1;0;0;0;0;0;1;0;0;0;0;1;0;1
 setup-1754805794401.json;Light-sheet Microscope;True;lightsheetBOX;Benedict;;This is an openSPIM inspired microscope with minimal number of components.;Microscopy;1.0.0;2025-08-14T00:00:00.000Z;16;3;0;0;0;0;2;0;0;1;1;0;0;0;1;0;1;0;1;0;0;1;1;0;0;1;1;1;1
 setup-1754926935265.json;Abbe Experiment;False;;Benedict;;See Fourier and Image Planes;Microscopy;;;10;0;0;1;0;0;0;0;0;0;3;0;0;1;2;0;0;0;0;1;0;0;0;2;0;0;0;0;0
-setup-1755007210037.json;Galileo Telescope;False;;;;simple Galileo Setup;Astronomy;;;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+setup-1755007210037.json;Galileo Telescope;True;coreBOX;;;simple Galileo Setup;Astronomy;1.0.0;2025-08-01T00:00:00.000Z;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 setup-1755009082666.json;Kepler Telescope ;False;;;;simple Kepler Telescope;Astronomy;;;4;2;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 setup-1755009119928.json;Movie Projector;False;;;;simple movie projector ;General;;;3;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
 setup-1755009550644.json;Spotting microscope;False;;;;spotting microscope setup;Astronomy;;;8;5;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
