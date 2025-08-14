@@ -206,7 +206,7 @@
   "uc2_verified": true,
   "version": "1.0.0",
   "createdAt": "2025-08-01T00:00:00.000Z",
-  "collection": "quantumBOX",
+  "collection": ["quantumBOX", "HoloBox"],
   "author": "Benedict",
   "githubAccount": "beniroquai",
   "description": "This shows the general way of producing two beam interference. ",
