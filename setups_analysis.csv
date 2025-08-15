@@ -13,3 +13,4 @@ setup-1755009119928.json;Movie Projector;True;coreBOX;;;simple movie projector ;
 setup-1755009550644.json;Spotting Telescope;True;coreBOX;;;spotting microscope setup;Astronomy;1.0.0;2025-08-01T00:00:00.000Z;8;5;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 setup-1755069948156.json;Differential Phase Contrast  Microscope;False;;;;Differential Phase Contrast microscope ;Microscopy;;;10;1;1;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;1;0;0;1;0;0;1;0;1;0;0
 setup-1755070612291.json;488nm LED powered Fluoresence Microscope;False;;CsAngel;;488nm LED powered Fluoresence Microscope with 20x maginifcation, powered by an collimated LED. Great to eliminate any safety risk that would accur with lasers.;Microscopy;;;12;1;1;0;0;0;1;0;0;0;1;0;1;1;1;1;0;0;1;0;0;1;0;0;1;0;1;0;0
+setup-1755244175391.json;FRAME - Fluorescence Imager;False;;Benedict;;This is a single excitation wavelength microscope using the UC2 FRAME;Microscopy;;;14;3;1;0;0;0;1;0;0;1;2;0;1;1;2;1;0;0;0;0;0;0;0;0;1;0;0;0;0
