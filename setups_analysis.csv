@@ -16,3 +16,4 @@ setup-1755070612291.json;488nm LED powered Fluoresence Microscope;False;;CsAngel
 setup-1755244175391.json;FRAME - Fluorescence Imager;False;;Benedict;;This is a single excitation wavelength microscope using the UC2 FRAME;Microscopy;;;14;3;1;0;0;0;1;0;0;1;2;0;1;1;2;1;0;0;0;0;0;0;0;0;1;0;0;0;0
 setup-1755586943538.json;infinity corrected microscope;False;;;;;Microscopy;;;9;3;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0
 setup-1755674707346.json;FRAME - Polarisation Imager;False;;Benedict;;This is a simple polarisation microscopy with analyser and polariser;Microscopy;;;8;1;0;0;0;0;1;0;0;1;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0
+setup-1755687901473.json;LED Fluoresence Microscope ;False;;;;a LED powered fluoresence Microscope. Great to eliminate laser safety issues;Microscopy;;;12;1;1;0;0;0;1;0;0;0;1;0;1;1;1;1;0;0;1;0;0;1;0;0;1;0;1;0;0
