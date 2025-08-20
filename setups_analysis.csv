@@ -15,3 +15,4 @@ setup-1755069948156.json;Differential Phase Contrast  Microscope;False;;;;Differ
 setup-1755070612291.json;488nm LED powered Fluoresence Microscope;False;;CsAngel;;488nm LED powered Fluoresence Microscope with 20x maginifcation, powered by an collimated LED. Great to eliminate any safety risk that would accur with lasers.;Microscopy;;;12;1;1;0;0;0;1;0;0;0;1;0;1;1;1;1;0;0;1;0;0;1;0;0;1;0;1;0;0
 setup-1755244175391.json;FRAME - Fluorescence Imager;False;;Benedict;;This is a single excitation wavelength microscope using the UC2 FRAME;Microscopy;;;14;3;1;0;0;0;1;0;0;1;2;0;1;1;2;1;0;0;0;0;0;0;0;0;1;0;0;0;0
 setup-1755586943538.json;infinity corrected microscope;False;;;;;Microscopy;;;9;3;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0
+setup-1755674707346.json;FRAME - Polarisation Imager;False;;Benedict;;This is a simple polarisation microscopy with analyser and polariser;Microscopy;;;8;1;0;0;0;0;1;0;0;1;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0
