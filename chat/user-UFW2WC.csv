@@ -1,4 +1,4 @@
-message_id,chat_partner,chat_message,attachment,timestamp,
+message_id,chat_partner,chat_message,attachment,timestamp
 3d0d5d17-10bf-495c-b3f8-048247bd00c2,user,can you design me a fluorescence microscope?,"{
   ""uc2_components"": [],
   ""annotations"": [],
@@ -28,4 +28,4 @@ message_id,chat_partner,chat_message,attachment,timestamp,
     ""created"": ""2025-08-29T17:56:46.633Z"",
     ""software"": ""OpenUC2 OptiKit""
   }
-}",2025-08-29T17:56:46.447Z,
+}",2025-08-29T17:56:46.447Z
