@@ -16,3 +16,4 @@ setup-1755674707346.json;FRAME - Polarisation Imager;False;;Benedict;;This is a 
 setup-1755687901473.json;LED Fluoresence Microscope ;False;;;;a LED powered fluoresence Microscope. Great to eliminate laser safety issues;Microscopy;;;12;1;1;0;0;1;0;0;0;1;0;0;1;1;1;1;0;0;1;0;0;0;1;0;0;1;0;0;0;1;0;0
 setup-1755688269529.json;Light Sheet Microscope;False;;;;;Microscopy;;;17;1;0;0;0;2;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0;1;1;1;0;0;1;1;1;1;1;1
 setup-1755688524916.json;Smart Phone Microscope;True;coreBOX;;;;Microscopy;1.0.0;2025-08-01T00:00:00.000Z;10;2;1;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;1;0;0;0;0
+setup-1758601890024.json;Smart Microscopy Setup;False;;Benedict;;This is a simple microscope with a motorized xyz stage and LED array ;Microscopy;;;15;4;1;0;0;0;0;0;2;1;0;1;1;1;0;0;0;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0
