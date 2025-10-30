@@ -1,0 +1,10 @@
+<svg width="240" height="80" xmlns="http://www.w3.org/2000/svg">
+<line x1="0" y1="0" x2="0" y2="80" stroke="#ddd" stroke-width="1"/>
+<line x1="80" y1="0" x2="80" y2="80" stroke="#ddd" stroke-width="1"/>
+<line x1="160" y1="0" x2="160" y2="80" stroke="#ddd" stroke-width="1"/>
+<line x1="240" y1="0" x2="240" y2="80" stroke="#ddd" stroke-width="1"/>
+<line x1="0" y1="0" x2="240" y2="0" stroke="#ddd" stroke-width="1"/>
+<line x1="0" y1="80" x2="240" y2="80" stroke="#ddd" stroke-width="1"/>
+<rect x="2" y="3.11456298828125" width="234" height="74" stroke="#000000" stroke-width="2" fill="transparent"/>
+<text x="115" y="42.11456298828125" fill="#000000" font-size="16" font-family="Arial">xy stage</text>
+</svg>
