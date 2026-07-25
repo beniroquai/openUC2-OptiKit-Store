@@ -1,0 +1,917 @@
+{
+  "uc2_components": [
+    {
+      "name": "test_00",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        -1,
+        1
+      ],
+      "rotation": [
+        270,
+        0,
+        270
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "fold_mirror"
+    },
+    {
+      "name": "test_01",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        -1,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        270
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "tube_lens"
+    },
+    {
+      "name": "test_02",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        -1,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "pinhole"
+    },
+    {
+      "name": "test_03",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        0,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "opt_00"
+    },
+    {
+      "name": "test_04",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        0,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "opt_10"
+    },
+    {
+      "name": "test_05",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        0,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "opt_20"
+    },
+    {
+      "name": "test_06",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        -2,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "opt_02"
+    },
+    {
+      "name": "test_07",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        -2,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "opt_12"
+    },
+    {
+      "name": "test_08",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        -2,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "opt_22"
+    },
+    {
+      "name": "test_09",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_00"
+    },
+    {
+      "name": "test_10",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_10"
+    },
+    {
+      "name": "test_11",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_20"
+    },
+    {
+      "name": "test_12",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_01"
+    },
+    {
+      "name": "test_13",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_11"
+    },
+    {
+      "name": "test_14",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_21"
+    },
+    {
+      "name": "test_15",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        -2,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_02"
+    },
+    {
+      "name": "test_16",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        -2,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_12"
+    },
+    {
+      "name": "test_17",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        -2,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "ele_22"
+    },
+    {
+      "name": "test_18",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        3,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "arm_relay"
+    },
+    {
+      "name": "test_19",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        4,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        270
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "camera"
+    },
+    {
+      "name": "test_20",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        0,
+        -1
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "plate_bottom"
+    },
+    {
+      "name": "test_21",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        0,
+        2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "plate_top"
+    },
+    {
+      "name": "test_22",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_0"
+    },
+    {
+      "name": "test_23",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_1"
+    },
+    {
+      "name": "test_24",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        0,
+        -2,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_2"
+    },
+    {
+      "name": "test_25",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_3"
+    },
+    {
+      "name": "test_26",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_4"
+    },
+    {
+      "name": "test_27",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        1,
+        -2,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_5"
+    },
+    {
+      "name": "test_28",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_6"
+    },
+    {
+      "name": "test_29",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_7"
+    },
+    {
+      "name": "test_30",
+      "file": "C:\\UC2_Components\\test.iam",
+      "grid_pos": [
+        2,
+        -2,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "moduleId": "user.lens.test",
+      "originalName": "test",
+      "description": "some test lens",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "customText": "puzzle_8"
+    },
+    {
+      "name": "aquarium_1x1_31",
+      "file": "C:\\UC2_Components\\aquarium_1x1.iam",
+      "grid_pos": [
+        1,
+        -1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        270
+      ],
+      "moduleId": "openuc2.cube.aquarium_1x1",
+      "originalName": "aquarium 1x1",
+      "description": "Sample aquarium – absorbs/scatters light in filled half-volume for scattering experiments",
+      "params": {
+        "__doc": {
+          "offsetDeg": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "offsetMm": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "type": "text",
+      "layer": 0,
+      "points": [
+        {
+          "x": 63.56690774019398,
+          "y": 139.16026652433493
+        }
+      ],
+      "text": "electronic kit",
+      "style": {
+        "color": "#000000",
+        "fontSize": 14,
+        "fontFamily": "Arial"
+      },
+      "id": "a6260103-c25c-4a9d-bbbd-60b692d59a0f"
+    }
+  ],
+  "layers": [
+    {
+      "id": "layer-0",
+      "name": "Layer 0",
+      "index": 0,
+      "visible": true
+    }
+  ],
+  "name": "miniframe-brightfield",
+  "author": "",
+  "githubAccount": "",
+  "description": "The FRAME inner cube (OPM-0003 Brightfield): 3x3x2 stack, sandwich plates, puzzle joints, camera arm — expanded from openuc2.group.miniframe_brightfield (WP-53)",
+  "category": "General",
+  "screenshot": null,
+  "uc2_verified": false,
+  "version": "1.0.0",
+  "createdAt": "2026-05-22T11:08:11.999Z",
+  "collection": [
+    "General"
+  ],
+  "notification": "",
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-07-25T19:34:51.198Z",
+    "software": "OpenUC2 OptiKit"
+  }
+}
