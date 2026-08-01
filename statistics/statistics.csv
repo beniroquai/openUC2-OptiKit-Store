@@ -822,3 +822,4 @@
 2026-07-31T10:33:55.283Z,X.X.165.201,Firefox,Germany,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0,https://youseetoo.github.io/configurator/
 2026-07-31T11:36:38.777Z,X.X.216.98,Safari,United States,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15",https://youseetoo.github.io/configurator/
 2026-08-01T11:21:56.834Z,X.X.83.83,Chrome,Germany,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",http://localhost:5173/configurator/__rot24_check.svg
+2026-08-01T12:25:37.965Z,X.X.83.83,Chrome,Germany,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.24012.9 Chrome/148.0.7778.280 Electron/42.7.0 Safari/537.36",http://localhost:5173/configurator/schematic
